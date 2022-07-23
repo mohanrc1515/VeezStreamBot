@@ -4,9 +4,7 @@
 .gitignore
 
 *.log
-*.png
 *.txt
 
 README.md
-downloads/
 __pycache__/
